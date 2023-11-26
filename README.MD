@@ -29,7 +29,7 @@ Before running the application, ensure that you have the following prerequisites
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/prolog-grammar-checker-translator.git
+    git clone https://github.com/AltPact/Prolog-Dutch-to-English.git
     ```
 
 2. Change into the project directory:
